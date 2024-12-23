@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ngô Tuấn Lộc
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on making video 
+- 💞️ I’m looking for a job
 - 📫 How to reach me ...
 
 <!---
